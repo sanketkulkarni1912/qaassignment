@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenario name="test">
+     <Test name="test">
+		<Datablock name="test">
+		<Iteration number="3">
+		<Input>
+        </Input>
+		</Iteration>
+		</Datablock>
+		</Test>
+	
+	<Test name="test">
+	</Test>
+	
+</Scenario>
