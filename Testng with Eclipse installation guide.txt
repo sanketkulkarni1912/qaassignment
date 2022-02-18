@@ -1,0 +1,22 @@
+How to run and install 
+
+1.Download and Install Eclipse IDE and Jdk from this link https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers
+2.Click on help and then go eclipse market place
+3.Search for TestNG and click on Install.
+4.Select the packages that you want to Install and  Confirm the installation.
+5.Clone github repo into local machine
+6.Open Eclipse , click on Create Project 
+7.Select Java Project and Click Next
+8.Enter Project Name qatest Select JRE- 1.8 and Click on Next Select cloned git repo path 
+9.Click on Finish New Java Project 
+10.Right Click on Project and Select Import
+11.Select File System and click Next
+12.Browse the location where local code is stored (C:\qa assignment)
+13.Click on Finish, Select Yes to All in popup 
+14.Right click on Project, go to Build Path-> Configure Build Path
+15.Remove exisitng JARs if any in libraries 
+15.Add External JARs ,Go to lib folder, select all JARS and click on open
+16.Click on Apply and Close 
+17.Select test.java file src folder and click on run 
+
+
